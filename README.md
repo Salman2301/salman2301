@@ -28,6 +28,6 @@
 > ##### Checkout my terminal look a like [portfolio website][website].
 
 <!-- links -->
-[website]: https://www.salman2301.github.io/
+[website]: https://salman2301.github.io/
 
 
