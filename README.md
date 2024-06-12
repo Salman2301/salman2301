@@ -4,43 +4,11 @@
   Experienced Full-Stack Developer proficient in JavaScript, Python, SQL, 
 HTML5, CSS3, and TypeScript. Crafting user-friendly interfaces and robust 
 server-side functionality. Coding since June 2018, with involvement in two 
-startups and a successful freelancing career. Committed to innovation and 
-collaborative success, consistently exceeding client expectations
+startups and a successful freelancing career. 
 </center>
 
 <br/>
 
-#### FRAMEWORKS
-
-<center>
-
-  |                |                       |
-  | :------------: | :-------------------: |
-  | Strapi         |         ⬤⬤⬤⬤⬤      |
-  | Svelte         |         ⬤⬤⬤⬤⬤      |
-  | NodeJS         |         ⬤⬤⬤⬤○       |
-  | BullMQ         |         ⬤⬤⬤⬤⬤      |
-  | WebSocket      |         ⬤⬤⬤⬤○       |
-  | TailwindCSS    |         ⬤⬤⬤⬤⬤      |
-  | Svelte Native  |         ⬤⬤⬤○○       |
-
-</center>
-
-#### LANGUAGES
-
-<center>
-
-  |               |                       |
-  | :-----------: | :-------------------: |
-  | SQL           |         ⬤⬤⬤○○       |
-  | CSS3          |         ⬤⬤⬤⬤○      |
-  | HTML5         |         ⬤⬤⬤⬤⬤      |
-  | Python        |         ⬤⬤○○○       |
-  | JavaScript    |         ⬤⬤⬤⬤○      |
-  | TypeScript    |         ⬤⬤⬤⬤⬤      |
-
-
-</center>
 
 [Website Portfolio](https://salman2301.github.io/portfolio/)
 
@@ -50,5 +18,3 @@ collaborative success, consistently exceeding client expectations
 
 <!-- links -->
 [website]: https://salman2301.github.io/
-
-
