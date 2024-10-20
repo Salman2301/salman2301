@@ -35,5 +35,5 @@ startups and a successful freelancing career.
 [![Coding game](https://img.shields.io/badge/codingame-level%2011-f2bb13)](https://www.codingame.com/profile/54e05ce96ccf32303fa020721b20f2419899473)
 
 <!-- links -->
-[terminal]: https://salman2301.github.io/portfolio/
+[terminal]: https://salman2301.github.io
 [website]: https://salman2301.com
