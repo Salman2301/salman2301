@@ -34,7 +34,7 @@ Coding since June 2018, with two startups and a successful freelancing career al
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=salman2301&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top languages" width="100%" />
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=salman2301&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top languages" width="100%" />
     </td>
     <td align="center" width="50%">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=salman2301&theme=tokyonight" alt="Contribution streak" width="100%" />
